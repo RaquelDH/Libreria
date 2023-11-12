@@ -23,6 +23,7 @@ Además, el proyecto ha permitido a la librería identificar áreas de mejora en
 Este proyecto es un ejemplo perfecto de cómo la ciencia de datos puede ser utilizada para mejorar la eficiencia y la toma de decisiones en un pequeño negocio. Aunque el proyecto fue desarrollado específicamente para una librería, la metodología y las técnicas utilizadas pueden ser aplicadas a cualquier tipo de negocio que esté buscando mejorar su gestión financiera a través del análisis de datos.
 
 🚀 Futuras Mejoras 🚀
+
 Aunque este proyecto ha sido un gran paso adelante para la librería, hay varias áreas en las que se podrían hacer mejoras en el futuro. Por ejemplo, se podrían implementar técnicas de aprendizaje automático más avanzadas para mejorar la precisión de las predicciones de ventas y gastos. Además, se podrían explorar otras fuentes de datos, como las redes sociales y las reseñas en línea, para obtener una visión más completa del rendimiento de la librería.
 
 En resumen, este proyecto ha demostrado el poder de la ciencia de datos para transformar un pequeño negocio. Con la metodología correcta y las herramientas adecuadas, cualquier negocio puede aprovechar el poder de los datos para mejorar su rendimiento y su toma de decisiones.
