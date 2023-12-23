@@ -1,4 +1,4 @@
-📚 Proyecto de Data Science para una Librería 📚
+📚 Proyecto de Data Science y Transformación digital para una Librería 📚
 
 📝 Descripción del Proyecto 📝
 
